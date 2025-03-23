@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1M.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1M.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1M.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1M.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3-testDB.iml" filepath="$PROJECT_DIR$/lab3-testDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab3-testDB.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab3-testDB.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab3-testDB.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab3-testDB.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-stefansandru.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-stefansandru.iml" />
     </modules>
   </component>
