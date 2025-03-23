@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1M.iml" filepath="$PROJECT_DIR$/lab1M.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1M.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1M.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1M.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1M.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3-testDB.iml" filepath="$PROJECT_DIR$/lab3-testDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab3-testDB.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab3-testDB.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab3-testDB.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab3-testDB.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-stefansandru.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-stefansandru.iml" />
+    </modules>
+  </component>
+</project>
